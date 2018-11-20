@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "[칼럼] AI 음성비서, 어디까지 왔을까?"
+title:  "AI 음성비서, 어디까지 왔을까?"
 date:   2018-11-08 15:01:30
 author: devsaka
 categories:
