@@ -16,7 +16,7 @@
 lang: en-US
 title: 너드라이트
 email:
-description: 우리가 편하게 쓸테니, 편하게 보세요.
+description: 쓰고 싶은 글을 씁니다.
 baseurl: # the optional subpath of your site, e.g. "/blog"
 url: "https://sbhkim.github.io"
 author:
