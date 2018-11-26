@@ -8,8 +8,9 @@ categories:
   - AI
 tags:
   - AI
-  - 음성인식
-  - 컬럼
+  - 딥러닝
+  - 퍼셉트론
+  - 신경망
 cover:
 ---
 ## 퍼셉트론
