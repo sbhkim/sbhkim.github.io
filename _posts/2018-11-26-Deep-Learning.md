@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-title:  "딥러닝 이란 무엇일까? part1"
+title:  "딥러닝이란 무엇일까? part1"
 date:   2018-11-26 09:04:30
 author: 신승민
 categories:
